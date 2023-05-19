@@ -12,7 +12,7 @@ namespace Lab1
             // int[] num1 = { 15, 47, 12, 65, 48, 654, 987, 29, 647, 174 };
 
             //Array();
-            Char();
+            //Char();
 
             //int s = New(num);
             // Console.WriteLine(s);
@@ -120,8 +120,7 @@ namespace Lab1
             }
 
         }
-        
-        
+                
         static void Char()
         {
             Console.WriteLine("Char daxil et");
@@ -134,9 +133,7 @@ namespace Lab1
                 {
                     Console.WriteLine("herf var");
 
-
                 }
-
 
             }
             
